@@ -1,7 +1,7 @@
 #Internship Program Aggregation
 
 ##CodeCademy Lessons
-(Listed in order of recommendation)
+(The order of the lessons is only a recommendation)
 
 1. [Ruby](http://www.codecademy.com/tracks/ruby)
 2. [JavaScript](http://www.codecademy.com/tracks/javascript)
