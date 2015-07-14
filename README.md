@@ -1,6 +1,6 @@
 #Internship Program Aggregation
 
-##CodeCademy Lessons
+##Codecademy Lessons
 (The order of the lessons is only a recommendation)
 
 1. [Ruby](http://www.codecademy.com/tracks/ruby)
@@ -23,4 +23,4 @@
 3. [CoffeeScript](http://coffeescript.org) as the main programming language
 4. [Vue.js](http://www.vuejs.org) as the MVC framework
 5. [Firebase](http://www.firebase.com) as the persistent data store
-6. [Gulp](http://gulpjs.com) and [Webpack](webpack.github.io) as the build tools
+6. [Gulp](http://gulpjs.com) and [Webpack](http://www.webpack.github.io) as the build tools
