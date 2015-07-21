@@ -24,3 +24,22 @@
 4. [Vue.js](http://www.vuejs.org) as the MVC framework
 5. [Firebase](http://www.firebase.com) as the persistent data store
 6. [Gulp](http://gulpjs.com) and [Webpack](http://www.webpack.github.io) as the build tools
+
+##Tools Needed
+
+- Sublime Text (2 or 3)
+- Windows PowerShell/Mac Terminal/Linux Terminal
+- Node Package Manager
+
+###Sublime Text requirements
+
+- Jade Syntax highlighter
+- Sass Syntax highlighter
+- Coffee Syntax highlighter
+
+###Terminals
+
+####Windows PowerShell
+
+- Download PowerShell
+- Install Chocolatey, git, Gulp, and Webpack
