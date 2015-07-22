@@ -28,10 +28,13 @@
 ##Tools Needed
 
 - Sublime Text (2 or 3)
-- Windows PowerShell/Mac Terminal/Linux Terminal
+- Terminal
+	- Windows: PowerShell
+	- Mac: Terminal
+	- Linux: Terminal
 - Node Package Manager
 
-###Sublime Text requirements
+###Sublime Text Package Recommendations
 
 - Jade Syntax highlighter
 - Sass Syntax highlighter
@@ -39,7 +42,15 @@
 
 ###Terminals
 
-####Windows PowerShell
+Windows PowerShell
 
-- Download PowerShell
 - Install Chocolatey, git, Gulp, and Webpack
+
+Mac Terminal
+
+- Install Homebrew, git, Gulp, and Webpack
+
+Linux Terminal
+
+- Install Nix, git, Gulp, and Webpack
+
