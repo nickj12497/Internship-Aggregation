@@ -27,18 +27,18 @@
 
 ##Tools Needed
 
-- Sublime Text (2 or 3)
+- [Sublime Text](http://www.sublimetext.com) (2 or 3)
 - Terminal
 	- Windows: PowerShell
 	- Mac: Terminal
 	- Linux: Terminal
-- Node Package Manager
+- [Node Package Manager](https://www.npmjs.com/)
 
 ###Sublime Text Package Recommendations
 
 - Jade Syntax highlighter
 - Sass Syntax highlighter
-- Coffee Syntax highlighter
+- CoffeeScript Syntax highlighter
 
 ###Terminals
 
