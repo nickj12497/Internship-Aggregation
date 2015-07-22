@@ -52,5 +52,5 @@ Mac Terminal
 
 Linux Terminal
 
-- Install Nix, git, Gulp, and Webpack
+- Install Gulp and Webpack
 
