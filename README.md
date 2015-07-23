@@ -1,4 +1,6 @@
-#Internship Program Aggregation
+#Adelyte Internship Program Aggregation
+
+The Codecademy lessons are the first step to the process; they are web classes meant to teach the fundamentals of coding and code syntax. After completing the lessons, you will start on your very first web app called a TodoMVC. TodoMVCs are "To Do" lists coded in a "Model, View, Controller" fashion. You will be required to make a AngularJS, MithrilJS, CoffeeScript, and a fully-fledged TodoMVC. 
 
 ##Codecademy Lessons
 (The order of the lessons is only a recommendation)
@@ -53,4 +55,3 @@ Mac Terminal
 Linux Terminal
 
 - Install Gulp and Webpack
-
