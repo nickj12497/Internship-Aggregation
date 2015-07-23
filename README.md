@@ -1,6 +1,6 @@
 #Adelyte Internship Program Aggregation
 
-The Codecademy lessons are the first step to the process; they are web classes meant to teach the fundamentals of coding and code syntax. After completing these lessons, you will start on your very first web app called a TodoMVC. TodoMVCs are "To Do" lists coded in a "Model, View, Controller" fashion. The next step will be to make TodoMVCs using the coding languages AngularJS, MithrilJS, and a CoffeeScript. The fully-fledged TodoMVC has a lot of requirements that the other three don't, making it more of a challenge but also more rewarding and more functional.
+The Codecademy lessons are the first step to the process; they are web classes meant to teach the fundamentals of coding and code syntax. After completing these lessons, you will start on your very first web app called a TodoMVC. TodoMVCs are "To Do" lists coded in a "Model, View, Controller" fashion. The next step will be to make TodoMVCs using the coding languages AngularJS, MithrilJS, and a CoffeeScript. Finally, the fully-fledged TodoMVCm which consists of, creates more of a challenge but will be more rewarding and have greater functional.
 
 ##Codecademy Lessons
 (The order of the lessons is only a recommendation)
